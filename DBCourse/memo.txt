@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM members WHERE age >= 50;
